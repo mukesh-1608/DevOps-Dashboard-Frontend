@@ -8,6 +8,8 @@
 The interface prioritizes clarity, minimizing visual noise while retaining a premium, technical feel using **React**, **Tailwind CSS**, and **Flowbite**.
 <img width="1352" height="679" alt="image" src="https://github.com/user-attachments/assets/e416d773-29fa-46ee-9c01-f8761eb1945e" />
 <img width="1366" height="682" alt="image" src="https://github.com/user-attachments/assets/97b98793-5368-467b-b7ea-f04626f78c8f" />
+<img width="1353" height="677" alt="image" src="https://github.com/user-attachments/assets/44ea9daa-8a02-4715-ad61-4962d1534daa" />
+<img width="1344" height="680" alt="image" src="https://github.com/user-attachments/assets/6279065e-e694-4d25-bc3f-22085397a0c6" />
 
 ##  Key Features
 
