@@ -6,6 +6,8 @@
 **Prism** is a high-performance, aesthetically engineered frontend interface for modern DevOps pipelines. Designed with a **"Phantom Glass"** aesthetic, it provides a mission-control style environment for developers to provision infrastructure, monitor deployments, and manage server logs.
 
 The interface prioritizes clarity, minimizing visual noise while retaining a premium, technical feel using **React**, **Tailwind CSS**, and **Flowbite**.
+<img width="1352" height="679" alt="image" src="https://github.com/user-attachments/assets/e416d773-29fa-46ee-9c01-f8761eb1945e" />
+<img width="1366" height="682" alt="image" src="https://github.com/user-attachments/assets/97b98793-5368-467b-b7ea-f04626f78c8f" />
 
 ##  Key Features
 
